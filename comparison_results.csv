@@ -1,0 +1,3 @@
+Model,Dataset,Metric,Score
+Linear Regression,Housing Prices,R2 Score,0.575787706032451
+Logistic Regression,Spam Emails,Accuracy,0.0

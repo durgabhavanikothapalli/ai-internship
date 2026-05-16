@@ -1,0 +1,17 @@
+
+END-TO-END MACHINE LEARNING REPORT
+
+Dataset Used:
+California Housing Dataset
+
+Model Used:
+Linear Regression
+
+Evaluation Metrics:
+Mean Squared Error: 0.5558915986952442
+R2 Score: 0.575787706032451
+
+Observations:
+1. The model performs reasonably well.
+2. Features show moderate correlations.
+3. Scaling improved model stability.
